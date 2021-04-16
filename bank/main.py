@@ -1,6 +1,4 @@
 # 项目入口
-# 测试节点1
-# window test1
 
 from view import View
 from bank import Bank

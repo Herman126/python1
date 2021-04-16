@@ -1,4 +1,5 @@
 # 项目入口
+# linux test1
 
 from view import View
 from bank import Bank
